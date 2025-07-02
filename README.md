@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/8897d56d-49d3-4372-a531-f0b888fafc54)# Car-name-selector
 this is a beginner friendly code, i am learning python so just a little code to for a car dealer to deal with customer requests
 # 🚗 Car Company Selector – Python Project
 
